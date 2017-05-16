@@ -1,0 +1,10 @@
+﻿
+Application name
+Test
+API key
+2618a0c146dcebcbccec4e82e4cf6209
+Shared secret
+b5d6cb6923f662b34ad9eec7be19f979
+Registered to
+Emi_lie_
+
